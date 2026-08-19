@@ -1,1 +1,1 @@
-#A calender Planner for ypur events
+#A calender Planner for your events
